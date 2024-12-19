@@ -4,7 +4,7 @@ An implementation of malloc and free. Implemented a library that interacts with 
 
 ## Building and Running the Code
 
-The code compiles into four shared libraries and six test programs. To build the code, change to your top level assignment directory and type:
+The code compiles into four shared libraries and ten test programs. To build the code, change to your top level assignment directory and type:
 ```
 make
 ```
